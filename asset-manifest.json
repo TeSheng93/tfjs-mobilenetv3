@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tfjs-mobilenetv3/static/css/main.e6c13ad2.css",
+    "main.js": "/tfjs-mobilenetv3/static/js/main.254c26ec.js",
+    "index.html": "/tfjs-mobilenetv3/index.html",
+    "main.e6c13ad2.css.map": "/tfjs-mobilenetv3/static/css/main.e6c13ad2.css.map",
+    "main.254c26ec.js.map": "/tfjs-mobilenetv3/static/js/main.254c26ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.254c26ec.js"
+  ]
+}
